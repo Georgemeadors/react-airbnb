@@ -1,0 +1,26 @@
+.hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 395px;
+    height: auto;
+    
+}
+
+.hero-image {
+    width: 350px;
+    margin-left: 90px;
+    /* margin-right: auto; */
+    margin-top: 30px;
+    align-self: center;
+
+}
+
+.hero-text, 
+.hero-paragraph{
+   text-align: center; 
+   margin-top: 10px 0;
+}
+
+  
+
